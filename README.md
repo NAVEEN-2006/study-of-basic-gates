@@ -78,6 +78,7 @@ assign f6=a^b;
 assign f7=~(a^b);
 endmodule
 ```
+
 ## Logic symbol & Truthtable:
 ![truthtable](https://github.com/user-attachments/assets/2518ae5c-ea1f-48a7-b2be-e1980f4a6988)
 
